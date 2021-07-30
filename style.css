@@ -1,0 +1,39 @@
+h1{
+    color: red;
+}
+p{
+    font-size: 18px;
+    
+}
+.first {
+    color: blue;
+    font-weight: 900;
+}
+#second {
+    color: purple; 
+}
+h2{
+    color: green;
+    font-size: 20;
+    font-weight: bold;
+}
+h4{
+    width: 50%; 
+    border: 2px blue;
+}
+div {
+    color:coral;
+    font-size: 45;
+}
+div {
+    height: 50px;
+    /* border: 10px solid lightseagreen; */
+}
+
+img {
+    height: 400px; 
+    border-style: double;
+}
+body { 
+    background-color: burlywood;
+}
